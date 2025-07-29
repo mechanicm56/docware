@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "npx ts-node src/app.tst",
+    "start": "npx ts-node src/app.ts",
     "worker": "npx ts-node src/worker.ts"
   },
   "dependencies": {
