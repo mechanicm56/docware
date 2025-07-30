@@ -43,8 +43,8 @@ This project is a full-stack application that allows users to upload files for m
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/file-upload-malware-scan.git
-cd file-upload-malware-scan
+git clone https://github.com/mechanicm56/docware.git
+cd docware
 ```
 
 ### 2. Backend SSetup
